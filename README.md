@@ -11,15 +11,15 @@ This project walk through the end to end implementation of a data science projec
     ## 1. Mean
     ## 2. Median
     ## 3. Mode
-Step3: Handling imbalance data
-Step4: Treating Outliers
-Step5: Scaling down the data
-Step6: Converting categorical feature to numerical features
+##  Step3: Handling imbalance data
+##  Step4: Treating Outliers
+##  Step5: Scaling down the data
+##  Step6: Converting categorical feature to numerical features
       ##  1.  label encoding
       ##  2.  one hot encoding
-Feature Selection:
-  - Correlation
-  - K neighbour
-  - Chisquare
-  - Genetic algorithm
-  = Feature Importance(extra tree classifier)
+##  Feature Selection:
+    - Correlation
+    - K neighbour
+    - Chisquare
+    - Genetic algorithm
+    - Feature Importance(extra tree classifier)
